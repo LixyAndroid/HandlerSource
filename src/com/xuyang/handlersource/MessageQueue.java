@@ -1,5 +1,9 @@
 package com.xuyang.handlersource;
 
+/**
+ * 消息队列，链表
+ */
+
 public class MessageQueue {
 	private Message mMessages;
 
